@@ -1,6 +1,11 @@
 {
-    "name": "Getting Started Example",
-    "description": "Build an Extension!",
+    "name": "Secure Banking System",
+    "description": "Secure Banking System - to wtyczka, która w czasie rzeczywistym dba o Twoje bezpieczeństwo w sieci oraz chorni Cię przed atakami phishingowymi.",
+    "icons": {
+      "16": "16.png",
+      "48": "48.png",
+      "128": "128.png"
+    },
     "version": "1.0",
     "manifest_version": 3,
     "background": {
